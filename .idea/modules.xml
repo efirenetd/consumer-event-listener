@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer-event-listener/consumer-event-listener.iml" filepath="$PROJECT_DIR$/consumer-event-listener/consumer-event-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kafka-library-event-services.iml" filepath="$PROJECT_DIR$/.idea/kafka-library-event-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producer-event-api/producer-event-api.iml" filepath="$PROJECT_DIR$/producer-event-api/producer-event-api.iml" />
+    </modules>
+  </component>
+</project>
